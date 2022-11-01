@@ -4,7 +4,7 @@
 
 我的主要编程语言是Java，我很喜欢Java。当然对别的语言种类我也不排斥。
 
-欢迎来访我的[Blog](https://cgglyle.github.io) 
+欢迎来访我的[Blog](https://cgglyle.tk) 
 💬 可以通过[Telegrame](https://t.me/cgglyle)联系我，欢迎您的造访。 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cgglyle&theme=github_dark)](https://github.com/USERNAME/github-readme-stats)  
