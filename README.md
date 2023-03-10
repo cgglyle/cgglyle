@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyle</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">We are both children of the stars.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cgglyle&label=Profile%20views&color=0e75b6&style=flat" alt="cgglyle" /> </p>
 
