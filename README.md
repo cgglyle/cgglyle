@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Spring and Linux or Arch Linux (I like this)**
 
-- 📫 How to reach me **cgglyle@outlook.com**
+- 📫 How to reach me **i@cgglyle.top**
 
 - 💬 You can contact me by [Telegrame](https://t.me/cgglyle) 
 
