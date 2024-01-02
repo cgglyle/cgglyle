@@ -17,6 +17,8 @@
 
 - 💬 You can contact me by [Telegrame](https://t.me/cgglyle) 
 
+- MY GPG: [GPG](https://github.com/cgglyle/gpg)
+
 <p align="left">
 </p>
 
