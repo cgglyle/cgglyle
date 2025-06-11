@@ -9,11 +9,11 @@
  -->
 - 👨‍💻 All of my projects are available at [https://github.com/cgglyle](https://github.com/cgglyle)
 
-- 📝 I regularly write articles on [https://cgglyle.top](https://cgglyle.top)
+- 📝 I regularly write articles on [https://heylyle.com](https://heylyle.com)
 
 - 💬 Ask me about **Java, Kotlin, Spring and Linux or openSUSE (I like this) or anything.**
 
-- 📫 How to reach me **i@cgglyle.top**
+- 📫 How to reach me **i@heylyle.com**
 
 - My GPG: [GPG Gist](https://gist.github.com/cgglyle/c7a3cc16f6e5887afa5da437e20b2ce4)
 
