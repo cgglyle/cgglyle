@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **i@heylyle.com**
 
-- My GPG: [GPG Gist](https://gist.github.com/cgglyle/c7a3cc16f6e5887afa5da437e20b2ce4)
+- My GPG: [GPG Gist](https://gist.github.com/cgglyle/d53ee7a401e8c9c94bd61ba7a40f879d)
 
 <p align="left">
 </p>
